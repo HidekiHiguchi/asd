@@ -1,0 +1,24 @@
+#surefire
+#Wed Apr 05 17:55:22 BRT 2017
+testClassesDirectory=/Users/mytrace/Documents/workspace/asd/target/test-classes
+classPathUrl.2=/Users/mytrace/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/mytrace/Documents/workspace/asd/target/classes
+reportsDirectory=/Users/mytrace/Documents/workspace/asd/target/surefire-reports
+classPathUrl.0=/Users/mytrace/Documents/workspace/asd/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/Users/mytrace/Documents/workspace/asd/src/test/java
+surefireClassPathUrl.1=/Users/mytrace/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/Users/mytrace/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=Testmvn.asd.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/Users/mytrace/Documents/workspace/asd/.surefire-EF4541932507018FB7EA9FE623F9597256E3BA68
+includes0=**/Test*.java
+childDelegation=false
